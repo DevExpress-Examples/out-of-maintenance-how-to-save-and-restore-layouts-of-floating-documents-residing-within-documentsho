@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Main.cs](./CS/DXApplication2/Main.cs) (VB: [Main.vb](./VB/DXApplication2/Main.vb))
+* [MyUserSettings.cs](./CS/DXApplication2/MyUserSettings.cs) (VB: [MyUserSettings.vb](./VB/DXApplication2/MyUserSettings.vb))
+* [Program.cs](./CS/DXApplication2/Program.cs) (VB: [Program.vb](./VB/DXApplication2/Program.vb))
+<!-- default file list end -->
 # How to save and restore layouts of floating documents residing within DocumentsHost
 
 
